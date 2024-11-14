@@ -1,3 +1,3 @@
-[submodule "nutcracker/vendor/spdlog"]
-	path = nutcracker/vendor/spdlog
+[submodule "Nutcracker/vendor/spdlog"]
+	path = Nutcracker/vendor/spdlog
 	url = https://github.com/gabime/spdlog

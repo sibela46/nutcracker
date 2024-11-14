@@ -3,7 +3,7 @@
 #include "Core.h"
 
 namespace Nutcracker {
-	class NUTCRACKER_API Application
+	class Nutcracker_API Application
 	{
 	public:
 		Application();
