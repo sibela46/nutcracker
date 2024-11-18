@@ -1,5 +1,7 @@
+#include "ncpch.h"
 #include "Log.h"
 
+#include "Nutcracker/Events/Event.h"
 #include "spdlog/sinks/stdout_color_sinks.h"
 
 namespace Nutcracker {
